@@ -29,6 +29,3 @@ A simple menu-driven Java program that uses a **do-while loop** to repeatedly ac
 * `do-while` Loop
 * Input Validation
 
-## 👩‍💻 Author
-
-**Misbah Fathima**
