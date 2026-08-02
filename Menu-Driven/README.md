@@ -29,3 +29,23 @@ A simple menu-driven Java program that uses a **do-while loop** to repeatedly ac
 * `do-while` Loop
 * Input Validation
 
+📷 Sample Output
+Enter a choice -> 1 for input, 0 to stop.
+1
+
+Enter the marks.
+95
+
+This is Good.
+
+Enter a choice -> 1 for input, 0 to stop.
+1
+
+Enter the marks.
+72
+
+This is also Good.
+
+Enter a choice -> 1 for input, 0 to stop.
+0
+Thank you!...
