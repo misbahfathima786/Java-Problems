@@ -1,4 +1,4 @@
-# 🧮 Java Calculator
+# 🔢 Java Calculator
 
 A simple command-line calculator developed in Java.
 
