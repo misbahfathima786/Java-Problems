@@ -1,12 +1,12 @@
-# Java Calculator
+# 🧮 Java Calculator
 
 A simple command-line calculator developed in Java.
 
-## Description
+## 📌 Description
 
 This program performs basic arithmetic operations based on the user's input.
 
-## Features
+## ✨ Features
 
 - Addition (+)
 - Subtraction (-)
@@ -15,7 +15,7 @@ This program performs basic arithmetic operations based on the user's input.
 - Modulus (%)
 - Handles division by zero
 
-## Concepts Used
+## 🛠️ Concepts Used
 
 - Java
 - Scanner Class
@@ -23,7 +23,7 @@ This program performs basic arithmetic operations based on the user's input.
 - Conditional Statements
 - User Input
 
-## Sample Input
+## 🔢 Sample Input
 
 ```
 Enter First Operand.
@@ -34,7 +34,7 @@ Enter Second Operand.
 25
 ```
 
-## Sample Output
+## 📷 Sample Output
 
 ```
 15 + 25 = 40.
