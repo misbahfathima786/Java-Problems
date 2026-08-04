@@ -1,6 +1,6 @@
 # 📘 Java Functions Programs
 
-This repository contains **3 beginner-friendly Java programs** that demonstrate the use of **functions (methods)**. Each program performs a different task using user input and method calls.
+This folder contains **3 beginner-friendly Java programs** that demonstrate the use of **functions (methods)**. Each program performs a different task using user input and method calls.
 
 ---
 
