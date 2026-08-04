@@ -1,6 +1,6 @@
 # Java Number Programs
 
-This repository contains simple Java programs based on basic programming concepts.
+This folder contains simple Java programs based on basic programming concepts.
 
 ## Programs Included
 
