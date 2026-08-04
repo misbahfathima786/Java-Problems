@@ -1,6 +1,6 @@
 # 🌟 Java Pattern Programs Collection
 
-This repository contains **18 beginner-friendly Java pattern printing programs** designed to strengthen your understanding of **nested loops, conditional statements, and pattern logic**.
+This folder contains **18 beginner-friendly Java pattern printing programs** designed to strengthen your understanding of **nested loops, conditional statements, and pattern logic**.
 
 ## 💻 Concepts Covered
 - ☕ Java
