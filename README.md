@@ -19,9 +19,9 @@ This repository covers concepts ranging from **Java basics and functions to recu
 | 07 | `Basic Problems (Recursion-2)` | Advanced recursion-based problems               |
 | 08 | `Bit Manipulation`             | Problems using bitwise operations               |
 | 09 | `Calculator`                   | Simple calculator program                       |
-| 12 | `Menu-Driven`                  | Menu-driven Java programs                       |
-| 10 | `Methods`                      | Problems using user-defined methods             |
-| 11 | `Methods (2)`                  | Additional methods-based problems               |
+| 10 | `Menu-Driven`                  | Menu-driven Java programs                       |
+| 11 | `Methods`                      | Problems using user-defined methods             |
+| 12 | `Methods (2)`                  | Additional methods-based problems               |
 | 13 | `Month-Names`                  | Programs related to months and their names      |
 | 14 | `Number Problems`              | Basic number-related problems                   |
 | 15 | `Pattern-Problems`             | Star, number, and mathematical patterns         |
